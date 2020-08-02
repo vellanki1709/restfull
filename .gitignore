@@ -21,3 +21,4 @@ README.html
 .sonarlint
 .metadata/**
 .metadata/.**
+../.metdata/**
