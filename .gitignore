@@ -17,3 +17,5 @@ dependency-reduced-pom.xml
 README.html
 .DS_Store
 /.metadata/
+.idea
+.sonarlint
