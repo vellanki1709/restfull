@@ -20,7 +20,7 @@ public class ConsumingRestApplication {
 	}
 	
 	
-///play pressure
+///play pressure local branch to push
 	@Bean
 	public RestTemplate restTemplate(RestTemplateBuilder builder) {
 		return builder.build();
